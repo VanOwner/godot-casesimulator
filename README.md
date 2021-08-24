@@ -1,3 +1,5 @@
+##Forked from mberkdemir haven't started work on it yet.
+
 ## Godot Engine Case Simulator Description <br/>
 Project includes fundamental of case opening systems. You can start to develop more complex case opening systems by using this repo.
 <br/>
