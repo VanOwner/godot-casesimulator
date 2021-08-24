@@ -1,4 +1,4 @@
-## Forked from mberkdemir haven't started work on it yet. <br/>
+## Forked from @mberkdemir haven't started work on it yet. <br/>
 
 ## Godot Engine Case Simulator Description <br/>
 Project includes fundamental of case opening systems. You can start to develop more complex case opening systems by using this repo.
